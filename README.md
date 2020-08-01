@@ -1,5 +1,7 @@
 # iOSDC2020-Article-Sample
 
+[![Xcode 11.6](https://img.shields.io/badge/Xcode-11.6-blue.svg?style=flat)](https://developer.apple.com/download/more/)
+[![Swift 5.2.4](https://img.shields.io/badge/Swift-5.2.4-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![CI](https://github.com/uhooi/iOSDC2020-Article-Sample/workflows/CI/badge.svg)](https://github.com/uhooi/iOSDC2020-Article-Sample/actions?query=workflow%3ACI)
 
 ## 概要
